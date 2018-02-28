@@ -1,2 +1,2 @@
 # microblog
-练习使用github
+通示例Flask Mega来学习Flask
